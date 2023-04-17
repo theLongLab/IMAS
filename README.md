@@ -1,6 +1,5 @@
 ## Users’ Manual of IMAS
 ### IMAS: A statistical method for image-mediated association studies discovers genes and pathways associated with four brain disorders
-## Overview
 Brain imaging and genomic sequencing are critical tools enabling characterization of genetic basis of brain disorders. However, imaging large cohorts is expensive, and may be unavailable for legacy datasets used for genome-wide association study (GWAS). Using an integrated feature selection/aggregation model, we developed Image-Mediated Association Study (IMAS), which utilizes borrowed imaging/genomics data to conduct association mapping in legacy GWAS cohorts. By leveraging the UK Biobank image-derived phenotypes (IDPs), IMAS discovered genetic bases underlying four neuropsychiatry disorders and verified them by analyzing annotations, pathways and eQTLs. A cerebellar abnormality-mediated mechanism was identified to be common to the four disorders. Simulations show that, if the goal is genetic basis, IMAS is more powerful than a hypothetical protocol in which the imaging were available in the GWAS dataset. This implies the feasibility of reanalyzing legacy GWAS datasets without conducting additional imaging, yielding cost-savings for integrated analysis of genetics and imaging. 
 
 ![My Image](Fig1.PNG)
